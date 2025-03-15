@@ -1,17 +1,9 @@
 {
   "models": [
-    "rem",
-    "kesyoban",
-    "bilibili-live/22",
-    "bilibili-live/33",
     "tororo",
     "hijiki"
   ],
   "messages": [
-    "我是蕾姆",
-    "我是血小板",
-    "来自 Bilibili Live 的 22 哦 ~",
-    "来自 Bilibili Live 的 33 的说",
     "喵~",
     "喵呜~"
   ]

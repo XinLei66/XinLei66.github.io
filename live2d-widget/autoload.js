@@ -37,7 +37,7 @@ if (screen.width >= 768) {
 			waifuPath: live2d_path + "waifu-tips.json",
 			modelsPath: live2d_path + "model",
 			modelListPath: live2d_path + "model/model_list.json",
-			tools: ["hitokoto", "asteroids", "switch-model", "switch-texture", "photo", "info", "quit"]
+			tools: ["hitokoto", "switch-model", "photo", "quit"]
 		});
 	});
 }
